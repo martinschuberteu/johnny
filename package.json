@@ -1,0 +1,18 @@
+{
+  "name" : "johnny",
+  "version" : "1.0.0",
+  "description" : "robot using johnny-five",
+  "author": "the@martinschubert.eu",
+  "main" : "main.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/martinschuberteu/johnny"
+  },
+  "dependencies" : { 
+    "raspi-io" : "*",
+    "johnny-five" : "*",
+    "oled-js" : "*",
+    "oled-font-5x7" : "*",
+    "sleep" : "*"
+  } 
+}
